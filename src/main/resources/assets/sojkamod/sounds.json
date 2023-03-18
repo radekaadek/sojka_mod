@@ -1,0 +1,8 @@
+{
+    "entity.sojka.ambient": {
+        "category": "hostile",
+        "sounds": [
+            "sojkamod:entity.sojka.ambient"
+        ]
+    }
+}
