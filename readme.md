@@ -1,4 +1,4 @@
-# Sójka mod!
+# Sójka mod
 
 The mod adds a Sójka boss to the game!
 
