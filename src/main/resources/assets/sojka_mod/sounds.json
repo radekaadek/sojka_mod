@@ -1,0 +1,20 @@
+{
+    "entity.sojka.ambient": {
+        "category": "hostile",
+        "sounds": [
+            "sojka_mod:entity.sojka.ambient"
+        ]
+    },
+    "entity.sojka.death": {
+        "category": "hostile",
+        "sounds": [
+            "sojka_mod:entity.sojka.death"
+        ]
+    },
+    "entity.sojka.hurt": {
+        "category": "hostile",
+        "sounds": [
+            "sojka_mod:entity.sojka.hurt"
+        ]
+    }
+}
